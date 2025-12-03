@@ -63,5 +63,8 @@ The script trainingclassifier.py is very similar to generalclassifier.py, where 
 
 The file onnx_transfer.py gives the configuration of how we transfered our .pth file to a .onnx file.
 
-
+The required libraries are labeled below:
+```
+pip install torch torchvision timm pillow numpy onnx onnxruntime wandb
+```
 
