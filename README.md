@@ -2,6 +2,7 @@
 Publically Available Dataset(s): https://drive.google.com/drive/folders/1IUVSkOcDjggGhobZBP3_V69BegmhDnkp?usp=drive_link 
 
 The true tree from the directory of training should look like:
+```
 .
 ├── run.slurm
 └── src
@@ -23,6 +24,7 @@ The true tree from the directory of training should look like:
     ├── run.py
     ├── trainer.py
     └── wandb_help.py
+```
 
 We note that data is not in this github repository and is in the link above.
 
